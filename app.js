@@ -1,0 +1,1 @@
+alert("All your information has been hacked");
